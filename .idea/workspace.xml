@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0714144c-8a51-4c54-bef9-5a6b2f4dd473" name="Default Changelist" comment="" />
+    <list default="true" id="0714144c-8a51-4c54-bef9-5a6b2f4dd473" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/a.md" beforeDir="false" afterPath="$PROJECT_DIR$/a.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b.md" beforeDir="false" afterPath="$PROJECT_DIR$/b.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,12 +57,23 @@
       <option name="presentableId" value="Default" />
       <updated>1604159768967</updated>
       <workItem from="1604159770848" duration="9432000" />
-      <workItem from="1604262193148" duration="251000" />
+      <workItem from="1604262193148" duration="590000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="285" key="MergeDialog" timestamp="1604218816419">
